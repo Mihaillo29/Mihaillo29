@@ -1,5 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mihaillo29)
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mihaillo29" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&width=435&lines=I'm+Rahil+Shaikh!;Hey+There!%F0%9F%91%8B" />
